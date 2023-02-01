@@ -14,7 +14,7 @@ export default function TopDarkNavyBars(){
     return (
         <div className="overallTopNavyBar">
             <div className="topNavy">
-            {topNavyCard}
+                <div className="leftProps">{topNavyCard}</div>
             </div>
             <div className="bottomNavy">
             </div>
