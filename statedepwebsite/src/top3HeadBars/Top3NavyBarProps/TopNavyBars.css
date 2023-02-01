@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.top3NavyBarCard{
+    background-color:red;
+    
+}
+.top3NavyBarCard button{
+    border:none;
+    background-color:rgb(12, 33, 131);
+    color:antiquewhite;
+    font-size:12px;
+    cursor:pointer;
+    margin-right:15px;
+}
+.top3NavyBarCard button:hover {
+    font-weight:100;
+    transition-duration: .3s;
+}

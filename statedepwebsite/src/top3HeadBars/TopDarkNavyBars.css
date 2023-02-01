@@ -6,11 +6,15 @@
 .overallTopNavyBar{
     height:130px;
     width:100%;
+    
 }
 .topNavy{
     background-color:rgb(12, 33, 131);
     height:50px;
     width:100%;
+    display:flex;
+    align-items:center;
+    
 }
 .bottomNavy{
     background-color: rgb(29, 87, 167);
